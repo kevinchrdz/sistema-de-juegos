@@ -1,2 +1,3 @@
 <h1>Bienvenido al Sistema de Juegos Online</h1>
 -Estado: [17/08/2024] - En desarrollo...
+´´´DATE : 17/08/2024´´´
